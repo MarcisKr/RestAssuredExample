@@ -1,0 +1,6 @@
+base.path: https://api.nasa.gov/
+local.path: https://localhost:8080
+donki.context.path: DONKI/
+planetary.context.path: planetary/
+env: prod
+local: false
